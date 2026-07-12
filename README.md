@@ -19,7 +19,12 @@ yuexincat/
 ├── main.py                # 桌宠小猫实现
 ├── cat.gif,cat_pixel_animation.gif,laycat.gif,sanduoniecat.gif   # 动画源文件
 ├── requirement.txt            # Python 依赖列表
+├── catcat.py           #第二代桌宠月薪猫实现
 └── README.md            #本文件
 ```
-
-
+## 更新于2026/7/13
+更新catcat.py第二代月薪猫desktoppet
+实现功能增加
+1.有背景音乐了 用pygame实现的
+2.可以缩放
+对应的exe也打包好了
