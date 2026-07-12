@@ -1,0 +1,11 @@
+opencv-python
+numpy
+Pillow
+ PyQt5
+库安装：
+win+R，输入cmd，回车
+输入：
+pip install opencv-python pillow PyQt5 numpy
+太慢了？
+国内镜像安装：
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python pillow PyQt5 numpy
