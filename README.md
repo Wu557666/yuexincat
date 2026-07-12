@@ -10,7 +10,8 @@
 
 4. 支持多个小猫，文件开头GIF_ASSETS支持添加更多小猫，当然你得有他们的文件
 
-5. 文件用pyinstaller打包为exe，Windows可以直接运行看看效果
+5. 文件用pyinstaller打包为exe，Windows可以直接运行看看效果，但是打包文件太大了，后续加我v：windows557
+
 ## 项目结构
 
 ```text
